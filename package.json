@@ -1,0 +1,18 @@
+{
+  "name": "robot-cleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "bin": {
+    "robotcleaner": "./src/main.js"
+  },
+  "scripts": {
+    "start": "node .",
+    "test": "jest"
+  },
+  "author": "Magnus Engdal",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
